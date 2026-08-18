@@ -4,13 +4,13 @@ An interactive Power BI report designed to analyze sales performance, profitabil
 The E-Store Analytics Dashboard provides a centralized visual summary of e-commerce operations, tracking key performance indicators across product lines and geographic regions. Built for retail analysts and business stakeholders, it highlights monthly profitability shifts, top revenue-generating states, and customer purchasing patterns to drive data-backed operational decisions.
 
 # Tech Stack
-# Power BI Desktop – Report design, interactive layout, and visual components.
+ Power BI Desktop – Report design, interactive layout, and visual components.
 
-# Power Query – Data cleaning, attribute transformation, and table structure shaping.
+ Power Query – Data cleaning, attribute transformation, and table structure shaping.
 
-# DAX – Formulated key aggregations (Sum of Amount, Sum of Quantity, Sum of Profit).
+ DAX – Formulated key aggregations (Sum of Amount, Sum of Quantity, Sum of Profit).
 
-# File Format – .pbip / .pbit for source control and .jpg for documentation previews.
+ File Format – .pbip / .pbit for source control and .jpg for documentation previews.
 
 # Data Source
 Source: Internal E-Commerce Sales Records (Orders and Details tables).
